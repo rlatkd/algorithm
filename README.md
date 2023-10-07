@@ -1,1 +1,1 @@
-algorithm with python
+개인 공부
